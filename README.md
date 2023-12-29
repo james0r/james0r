@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @james0r
-- 👀 I’m interested in making websites.
+- 👀 I’m interested in making great websites.
 - 🌱 I’m currently learning NextJS 14.
 - 💞️ I’m looking to collaborate on stuff.
 - 📫 Reach me at https://jamesauble.com
