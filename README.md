@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Auble
 - 👀 I’m interested in making great websites.
-- 🌱 I’m currently working on an Astro + Sanity + Alpine.js + TailwindCSS stack.
+- 🌱 I’m currently working on my [Slayed](https://github.com/james0r/slayed) Shopify starter theme.
 - 💞️ I’m looking to collaborate on stuff.
 - 📫 Reach me at https://jamesauble.com/contact
 - 🛠️ Tech I use at https://jamesauble.com/uses
